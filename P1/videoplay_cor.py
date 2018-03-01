@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+#   POR GUILHERME LEITE E HUGO CARL
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
