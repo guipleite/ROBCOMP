@@ -2,3 +2,5 @@ Guilherme Leite
 Gabriel Monteiro
 Hugo Carl 
 Rafael Rosenzvaig
+
+Projeto feito em quarteto devido a mudança de salas.
